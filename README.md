@@ -1,8 +1,8 @@
-# Project in Jira : OrangeHRM
+# Project in Jira : OrangeHRM 
 
 The scope of the project is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
-Application under test: [ OrangeHRM]([https://duckduckgo.com](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login))
+Application under test:  <a href="https://duckduckgo.com](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" target="_blank"> OrangeHRM</a>
 
 API Documentation: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf
 
