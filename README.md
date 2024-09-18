@@ -4,7 +4,7 @@ The scope of the project is to use all gained knowledge throught the course and 
 
 Application under test:  [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
-API Documentation:   [Documentation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
+API Documentation:   [Documentation](https://api.orangehrm.com/#api-_)
 
 Tools used: Jira Scrum Zephyr
 
