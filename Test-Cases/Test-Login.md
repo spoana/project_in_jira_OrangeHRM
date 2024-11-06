@@ -13,4 +13,4 @@ Verifying a user's authentication in the OrangeHRM application.
 
 ## Screenshots
 - The login screen: ![Login Screen](../Screenshots/case-test-login.png)
-- Dashboard: ![Dashboard](../Screenshots/dashboard.png)
+- Dashboard: ![Dashboard](../Screenshots/dashbord.png)
