@@ -12,5 +12,5 @@ Verifying a user's authentication in the OrangeHRM application.
 - The user is authenticated and redirected to the main dashboard.
 
 ## Screenshots
-- The login screen: ![Login Screen](../Screenshots/login-screen.png)
+- The login screen: ![Login Screen](../Screenshots/case-test-login.png)
 - Dashboard: ![Dashboard](../Screenshots/dashboard.png)
