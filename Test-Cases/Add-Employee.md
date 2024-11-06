@@ -37,4 +37,5 @@ Testing the functionality of adding an employee in the OrangeHRM application. Th
 ## Screenshots
 
 - ![Capture 1](Screenshots/Add-Employee-1.png)
-- ![Capture 2](Screenshots/Add-Employee-2.png)
+- ![Capture 2](Screenshots/add-success-employee.png)
+- ![Capture 3](Screenshots/add-employee-111.png)
